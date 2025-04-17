@@ -1,0 +1,15 @@
+{
+  "name": "Daric",
+  "symbol": "DA",
+  "decimals": 8,
+  "description": "Daric (DA) is a hybrid PoW/PoS mineable token with a fixed supply of 100,000,000, supporting secure, decentralized trading and airdrops.",
+  "website": "https://darictoken.com",
+  "logoURI": "https://github.com/Aysa007/DaricToken/blob/main/assets/Daric/logo.png?raw=true",
+  "chainId": 137,
+  "address": "0x851BF7213b01192ad6C71DEa61B0876a99Bdd15E",
+  "tags": ["mineable", "PoW", "PoS", "airdrop", "defi", "token"],
+  "extensions": {
+    "coingeckoId": "daric",
+    "github": "https://github.com/Aysa007/DaricToken"
+  }
+}
