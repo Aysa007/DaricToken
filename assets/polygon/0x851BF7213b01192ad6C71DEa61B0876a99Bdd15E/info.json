@@ -1,0 +1,15 @@
+{
+  "name": "Daric",
+  "symbol": "DA",
+  "type": "ERC20",
+  "decimals": 8,
+  "description": "Daric is a decentralized token with hybrid PoW and PoS mining algorithms, designed for high security and scalability across multiple blockchains.",
+  "website": "https://darictoken.io",
+  "explorer": "https://polygonscan.com/token/0x851BF7213b01192ad6C71DEa61B0876a99Bdd15E",
+  "status": "active",
+  "id": "0x851BF7213b01192ad6C71DEa61B0876a99Bdd15E",
+  "links": {
+    "github": "https://github.com/Aysa007/DaricToken",
+    "telegram": "https://t.me/DaricToken"
+  }
+}
